@@ -22,8 +22,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: LOKESH N
+### Register Number: 212222100023
+
+![281479019-7df81ac9-345a-44e9-9394-ef59237f9e19](https://github.com/lokeshnarayanan/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119393019/a96792c4-b541-45a1-84bd-d65041a1ae6e)
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
